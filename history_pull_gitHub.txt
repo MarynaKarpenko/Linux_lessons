@@ -1,0 +1,500 @@
+   14  git add .
+   15  git status
+   16  git commit -m "initial commit"
+   17  git status
+   18  git log
+   19  ssh-kezgen
+   20  ssh-keygen
+   21  cd ~/.ssh
+   22  ls
+   23  ls
+   24  [200~git remote add origin https://github.com/MarynaKarpenko/m.git~
+   25  git remote add origin https://github.com/MarynaKarpenko/m.git
+   26  [200~git remote add origin https://github.com/MarynaKarpenko/m.git~
+   27  git remote add origin https://github.com/MarynaKarpenko/m.git
+   28  git push -u origin main
+   29  git push -u origin master
+   30  git push -u origin master
+   31  git remote add origin https://github.com/MarynaKarpenko/m.git
+   32  git push -u origin master
+   33  git@github.com:MarynaKarpenko/m.git
+   34  git@github.com:MarynaKarpenko/m.git
+   35  git init
+   36  git@github.com:MarynaKarpenko/Frontend_Home_works.git
+   37  ls -la
+   38  git status
+   39  git add
+   40  git commit -m "second commit"
+   41  git add
+   42  git commit -m "initial commit"
+   43  git log
+   44  ls
+   45  git add
+   46  git status
+   47  git init
+   48  git add
+   49  git status
+   50  git add .
+   51  git status
+   52  ls -la
+   53  git status
+   54  git add <file>...
+   55  git status
+   56  git add .
+   57  git add .
+   58  git status
+   59  git commit -m "initial commit"
+   60  git log
+   61  git status
+   62  ls
+   63  git@github.com:MarynaKarpenko/Frontend_Home_works.git
+   64  git init
+   65  git add .
+   66  ls -la
+   67  git status
+   68  Changes not staged for commit:
+   69    (use "git add <file>..." to update what will be committed)
+   70    (use "git restore <file>..." to discard changes in working directory)
+   71    (commit or discard the untracked or modified content in submodules)
+   72          modified:   FE_Home_work_2 (modified content) 
+   73  git status
+   74  git add
+   75  git add .
+   76  git status
+   77  git add <FE_Home_work_2>...
+   78  git init
+   79  cd
+   80  cd /GitHub
+   81  pwd
+   82  mkdir /Instruction
+   83  mkdir Instruction
+   84  cd /Instruction
+   85  cd Instruction/
+   86  cd /
+   87  cd ..
+   88  cd ..
+   89  cd c
+   90  cd Tel_Ran
+   91  cd 09052023/
+   92  cd GitHub/
+   93  mv GitHub.pdf/Instruction
+   94  mv 123.txt/Instruction
+   95  cd ..
+   96  cd-
+   97  cd -
+   98  git init
+   99  ls -la
+  100  git status
+  101  git add .
+  102  git status
+  103  cd /Немецкий. Английский
+  104  cd .
+  105  cd-
+  106  cd -
+  107  cd /
+  108  cd ..
+  109  rm HW22
+  110  rmdir -p HW22
+  111  cd HW22
+  112  rm *
+  113  ls
+  114  ls -la
+  115  rm ...
+  116  ls -la
+  117  cd ..
+  118  git init
+  119  git clone git@github.com:MarynaKarpenko/Frontend_Home_works.git
+  120  ls -la
+  121  git status
+  122  ssh -T git@github.com
+  123  cat ~.
+  124  cat ~/.ssh/id_rsa.pub
+  125  git init
+  126  ls-la
+  127  git init
+  128  li -la
+  129  ls -la
+  130  git status
+  131  git add.
+  132  git status
+  133  git status
+  134  git add..
+  135  git add .
+  136  git status
+  137  git commit -m "initial commit"
+  138  git log
+  139  git@github.com:MarynaKarpenko/Frontend_Home_works.git
+  140  git push 
+  141  git init
+  142  git status
+  143  git push git@github.com:MarynaKarpenko/Frontend_Home_works.git
+  144  git push --set-upstream git@github.com:MarynaKarpenko/Frontend_Home_works.git master
+  145  git init
+  146  ls -la
+  147  git status
+  148  200~git@github.com:MarynaKarpenko/Frontend_Home_works.git
+  149  git status
+  150  git add .
+  151  git logo
+  152  git commit
+  153  git push
+  154  git push git@github.com:MarynaKarpenko/Frontend_Home_works.git
+  155  git push --set-upstream git@github.com:MarynaKarpenko/Frontend_Home_works.git master
+  156  git push --set-upstream git@github.com:MarynaKarpenko/Frontend_Home_works.git
+  157  git init
+  158  ls -la
+  159  git status
+  160  git ad .
+  161  git status
+  162  git ad .
+  163  git init
+  164  git ad .
+  165  ls -la
+  166  git add .
+  167  git status
+  168  git commit
+  169  git init
+  170  git status
+  171  git commit -m "initial commit"
+  172  rit push git@github.com:MarynaKarpenko/Frontend_projects.git
+  173  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  174  git init
+  175  ls
+  176  ls -la
+  177  git status
+  178  git ad .
+  179  git add .
+  180  git status
+  181  rit push git@github.com:MarynaKarpenko/Frontend_projects.git
+  182  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  183  git status
+  184  git commit "new"
+  185  git commit -m "new"
+  186  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  187  git status
+  188  git@github.com:MarynaKarpenko/Frontend_projects.git
+  189  rit push git@github.com:MarynaKarpenko/Frontend_projects.git
+  190  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  191  ls
+  192  ls -la
+  193  git status
+  194  push git@github.com:MarynaKarpenko/Frontend_projects.git
+  195  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  196  git remote add origin  The current branch master has no upstream branch.
+  197  git pusch -u origin master 
+  198  git push
+  199  git push  The current branch master has no upstream branch.
+  200  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  201  git push <git@github.com:MarynaKarpenko/Frontend_projects.git>
+  202  git status
+  203  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  204  git push
+  205  git push -u origin master git@github.com:MarynaKarpenko/Frontend_projects.git
+  206  git push -u origin master
+  207  git init
+  208  git status
+  209  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  210  git push -u origin master
+  211  git push
+  212  git init
+  213  git status
+  214  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  215  git push -u origin master
+  216  git init
+  217  git status
+  218  git push git@github.com:MarynaKarpenko/Frontend_projects.git
+  219  git init
+  220  git status
+  221  ls -la
+  222  ls
+  223  git init
+  224  git status
+  225  git add ..
+  226  git add ..
+  227  git init
+  228  git status
+  229  git add .
+  230  git status
+  231  git commit -m "new"
+  232  git remote add origin git@github.com:MarynaKarpenko/Frontend_project.git
+  233  git init
+  234  git status
+  235  git add project_5
+  236  git status
+  237  git push -u origin master
+  238  gir add /project_5
+  239  git status
+  240  git add .
+  241  git commit -a
+  242  git remote -v
+  243  git init
+  244  git status
+  245  git add .
+  246  git status
+  247  git commit /project_5 "new"
+  248  git status
+  249  git status
+  250  git add .
+  251  git commit "del"
+  252  git commit -m "del"
+  253  git add .
+  254  git status
+  255  git push
+  256  git init
+  257  git remote -v
+  258  git status
+  259  git push
+  260  git -T git@github.com
+  261  ssh -T git@github.com
+  262  cat ~/.ssh/id_rsa.pub
+  263  rm project_5
+  264  rmdir project_5
+  265  rm -rf project_5
+  266  git push origin --delete master
+  267  git status
+  268  ls -la
+  269  git add .
+  270  git commit "new"
+  271  git add .
+  272  git commit "n"
+  273  git init
+  274  git add .
+  275  git add git@github.com:MarynaKarpenko/Frontend_projects.git
+  276  git status
+  277  git add .
+  278  git status
+  279  git status
+  280  git add .
+  281  git commit -m "new"
+  282  git push
+  283  git status
+  284  git add .
+  285  git status
+  286  git commit -m "made changes"
+  287  git push
+  288  git branch -D main
+  289  git push origin --delete main
+  290  git branch -D master
+  291  git init
+  292  git status
+  293  git branch -m main master
+  294  git fetch origin
+  295  git branch -u origin/master master
+  296  git remote set-head origin -a
+  297  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  298  git push origin --delete main
+  299  git status
+  300  git status
+  301  git push
+  302  git add .
+  303  git commit "n"
+  304  git remote -v
+  305  git init
+  306  git add .
+  307  git commit "new"
+  308  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  309  git push
+  310  git init
+  311  git status
+  312  git add .
+  313  git status
+  314  git commit -m "new"
+  315  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  316  git remote rm origin
+  317  git status
+  318  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  319  git push
+  320  git push -u origin master
+  321  git status
+  322  git remote -v
+  323  git branch -m master
+  324  ls -la
+  325  git push
+  326  git push --set-upsteam origin master
+  327  git push
+  328  git remote rm origin
+  329  git init
+  330  git status
+  331  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  332  git push -u origin master
+  333  git remote rm origin
+  334  git init
+  335  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  336  git push -u origin master
+  337  git remote rm origin
+  338  git init
+  339  git remote -u origin git@github.com:MarynaKarpenko/Frontend.git
+  340  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  341  git push -u origin main
+  342  git push -u origin master
+  343  git remote -v
+  344  git branch -m main master
+  345  git fetch origin
+  346  git branch -u origin/master master
+  347  git remote set-head origin -a
+  348  git branch -m main master
+  349  git push origin --delete main
+  350  git remote rm origin
+  351  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  352  git push
+  353  git remote rm origin
+  354  git init
+  355  git add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  356  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  357  git push -u origin main
+  358  git push -uorigin master
+  359  git remote -v
+  360  git status
+  361  git push -u origin master
+  362  git branch -D main
+  363  git push origin --delete main
+  364  git diff
+  365  rm -rf project_5/.git
+  366  git status
+  367  git remote rm origin
+  368  git init
+  369  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  370  git push -u origin main
+  371  git push -u origin master
+  372  git remote -v
+  373  git remote rm origin
+  374  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  375  git status
+  376  git status
+  377  git add .
+  378  git commit -m "chenge"
+  379  git push
+  380  git push -u origin master
+  381  git remote rm origin
+  382  git init
+  383  git status
+  384  git add .
+  385  git commit -m "delete"
+  386  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  387  git push
+  388  git push -u origin master
+  389  git status
+  390  git add .
+  391  git commit -m "chenge"
+  392  git push
+  393  git status
+  394  git add .
+  395  git commit -m "chenge"
+  396  git push
+  397  git add .
+  398  git commit -m "new"
+  399  git status
+  400  git push
+  401  rm -rf project_5/.git
+  402  rm -rf progit status
+  403  git status
+  404  git add .
+  405  git commit "delete"
+  406  git commit -m "delete"
+  407  git push
+  408  git push -u origin master
+  409  git remote -v
+  410  git remote rm origin
+  411  git status
+  412  git add .
+  413  git status
+  414  git commit -m "new"
+  415  git push
+  416  git push -u origin master
+  417  git status
+  418  git push -u origin master
+  419  git add .
+  420  git commit "del"
+  421  git commit -m "del"
+  422  git push -u origin master
+  423  git remote -v
+  424  git status
+  425  ls -la
+  426  git push
+  427  git push --help
+  428  git remote rm origin
+  429  git init
+  430  git add .
+  431  git commit "new"
+  432  git commit -m "new"
+  433  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  434  git push -u origin master
+  435  git push -u origin main
+  436  git remote rm origin
+  437  git init
+  438  git add .
+  439  git status
+  440  git remote add origin git@github.com:MarynaKarpenko/Frontend_projects.git
+  441  git push -u origin master
+  442  git remote rm origin
+  443  git init
+  444  git status
+  445  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  446  git push -u origin master
+  447  git branch -D main
+  448  git push origin --delete main
+  449  git init
+  450  git status
+  451  git remote -v
+  452  ls -la
+  453  git push -u origin master
+  454  git pull
+  455  git branch --set-upstream-to=origin/main master
+  456  git push
+  457  git status
+  458  git branch -D
+  459  git push origin --delete main
+  460  git push -u origin master
+  461  git status
+  462  git remote -v
+  463  git pull
+  464  git remote rm origin
+  465  git add .
+  466  git commit -m "new"
+  467  git remote add origin MarynaKarpenko/Frontend_projects
+  468  git push -u origin master
+  469  git remote -v
+  470  git remote rm origin
+  471  git remote add origin git@github.com:MarynaKarpenko/Frontend.git
+  472  git push -u origin master
+  473  git push
+  474  git push --set-upstream
+  475  git status
+  476  git pull
+  477  git push
+  478  git push -u origin master
+  479  git pull origin master
+  480  git init
+  481  git pull origin master
+  482  git push -u origin master
+  483  git status
+  484  git add .
+  485  git commit -m "del"
+  486  git push
+  487  git push -u origin master
+  488  git pull origin master
+  489  git pull origin master
+  490  git push -u origin master
+  491  git status
+  492  git add .
+  493  git commit "new"
+  494  git commit -m "new"
+  495  git status
+  496  git push
+  497  git status
+  498  git add .
+  499  git commit -m "chenge"
+  500  git push
+  501  git init
+  502  git status
+  503  git add .
+  504  git commit -m "new"
+  505  git remote add origin git@github.com:MarynaKarpenko/Linux_lessons.git
+  506  git push
+  507  git push -u origin main
+  508  git push origin master
+  509  git pull
+  510  git branch -D
+  511  git push origin --delete main
+  512  git pull origin master
+  513  history > history_pull_gitHub.txt
