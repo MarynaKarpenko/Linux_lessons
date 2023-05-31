@@ -1,0 +1,40 @@
+   0 ls
+   1 ls /
+   2 ls -la /
+   3 pwd
+   4 ls -la /usr
+   5 ls -la /user/local/
+   6 ls -la /usr/local/
+   7 mkdir /home/Dir
+   8 ls -la
+   9 mkdir Dir
+  10 ls -la
+  11 mkdir -p /home/Dir/Dir1
+  12 mkdir -p /home/Dir/Dir1/Dir2
+  13 tree /home/
+  14 ls -la
+  15 ls -la /home/Dir/Dir1/Dir2/
+  16 touch /home/Dir/Dir1/Dir2/file1.txt
+  17 ls -la
+  18 ls -la /home/Dir/Dir1/Dir2/file1.txt 
+  19 cp readme.txt /home/Dir/
+  20 ls -l
+  21 co -r /home/Dir/ ~/
+  22 cp -r /home/Dir/ ~/
+  23 tree /root/
+  24 mv -r Dir/ /opt/
+  25 --help
+  26 mv Dir/ /opt/
+  27 tree /opt/
+  28 cp hello.c /home/Dir/hello1.c
+  29 ls /home/Dir/
+  30 mv /home/Dir/hello1.c /home/Dir/hello.c
+  31 raname hello.c hello.txt
+  32 mv hello.c hello.txt
+  33 ls -la
+  34 rm -r /home/Dir/Dir1/Dir2/
+  35 ls /home/Dir/Dir1/
+  36 ls -la
+  37 tree /home/
+  38 history
+  39 history > history_lesson260523.txt

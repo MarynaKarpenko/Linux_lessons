@@ -1,0 +1,75 @@
+   0 ls
+   1 mkdir 111
+   2 cat readme.txt 
+   3 clear
+   4 date
+   5 date +'%d'
+   6 date  + '%H'
+   7 date + '%H'
+   8 date + 'D'
+   9 date +'%D'
+  10 echo hello
+  11 echo hello ftom telran
+  12 echo "hello from telran"
+  13 echo 'hello from telran'
+  14 echo "hello"
+  15 ls
+  16 touch
+  17 echo "hello" > file.txt
+  18 ls
+  19 ls -l
+  20 cat file.txt 
+  21 echo "hello" > readme.txt
+  22 ls -l
+  23 touch bench.py 
+  24 > readme.txt
+  25 ls -l
+  26 df
+  27 df -h
+  28 df -h >readme.txt 
+  29 ls -l
+  30 cat readme.txt 
+  31 echo "hello" >> readme.txt
+  32 cat
+  33 cat readme.txt 
+  34 df -h > readme.txt 
+  35 cat file.txt 
+  36 cat file.txt >> readme.txt 
+  37 df -h
+  38 df -h | wc
+  39 wc --help
+  40 df -h | wc -l
+  41 cat readme.txt 
+  42 cat bench.py | wc
+  43 cat bench.py | wc -c
+  44 cat /etc/group
+  45 cat /etc/group | wc
+  46 cat /etc/group | tail
+  47 cat /etc/group | tail -3
+  48 df -h | tail -2 >> readme.txt 
+  49 cat readme.txt 
+  50 df -h | head
+  51 cat /etc/group |head -3
+  52 cat /etc/group | tail -2 | head -1
+  53 grep
+  54 df -h
+  55 df -h | head -2 |
+  56 df -h | grep 7
+  57 df -h | grep -w /
+  58 df -h | grep 4.9 | awk '{print $5}' | sed 's/%/marina/'
+  59 df -h | grep 4.9 | awk '{print $5}' | sed 's/%//'
+  60 df -h
+  61 df 0h | sed 's/dev/marina/g'
+  62 df -h | sed 's/dev/marina/g'
+  63 cat bench.py 
+  64 cat bench.py | sed 's/return/out/g'
+  65 cat bench.py | sed 's/return/out/g' > bench2.pz
+  66 ls -l /opt/
+  67 ls -l /opt/ >> readme.txt 
+  68 cat readme.txt 
+  69 df -h | grep 47
+  70 df -h | grep -o 47
+  71 df -h | grep -o /
+  72 history > history_lesson_310523
+  73 export_file history_lesson_310523
+  74 history > history_31.txt
