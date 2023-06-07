@@ -1,0 +1,42 @@
+   0 vi file.txt
+   1 ls -l
+   2 ls
+   3 nano
+   4 env
+   5 export MYVAR=hello
+   6 export MYVAR=hello NAME=maryna TEST=vi
+   7 env
+   8 $NAME
+   9 echo $MYVAR $NAME
+  10 unset NAME
+  11 ls
+  12 unset PATH
+  13 env
+  14 /bin# export PATH
+  15 ls -l
+  16 /bin/ export PATH
+  17 env
+  18 cd /bin
+  19 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+  20 ls
+  21 ls -l
+  22 cd
+  23 chmod ugo+x bench.py 
+  24 ls -l
+  25 chmod g+w bench.py 
+  26 ls -l
+  27 chmod ugo+rwx
+  28 chmod ugo+rwx bench.py 
+  29 ls -l
+  30 chmod ugo-rwx bench.py
+  31 ls -l
+  32 chmod a+rwx bench.py 
+  33 chmod u-r, g+w, o+x bench.py 
+  34 ls -l
+  35 history lesson_010623
+  36 history lesson_010623.txt
+  37 export lesson_010623.txt
+  38 export/feile lesson_010623.txt
+  39 export feile lesson_010623.txt
+  40 export.feile lesson_010623.txt
+  41 history > lesson_070623.txt
