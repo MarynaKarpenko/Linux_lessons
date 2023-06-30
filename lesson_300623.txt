@@ -1,0 +1,53 @@
+1. Сделать файл скрипта в вашей папке на сервере, который выполнит:
+- сделает счетчик и выведет его на экран (от a до z c интервалом в полсекунды)
+- напишет слово DONE как закончит
+
+#!/bin/bash
+ 
+for run in {a..z}
+do
+echo $run
+sleep .5
+done
+echo DONE
+
+
+
+
+2. Ввести иия и вывести его
+
+#!/bin/bash
+ 
+#echo "Enter you name"    
+#read name              - можно вместо этих строк написать нижнюю
+read -p "Enter you name" name
+echo "Welcome $name, in server"
+
+
+
+3. Сделать файл скрипта в вашей папке на сервере makescript.sh, который поможет создавать скрипты:
+Спросит путь для создания скрипта “Print path for script: “
+Спросит имя скрипта “Print script name: “
+Запишет в скрипт первую строку  - #!/bin/bash
+Даст нужные права на созданный файл
+Откроет в редакторе nano созданный файл
+- напишет слово DONE как закончит
+
+
+
+#!/bin/bash
+
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+ 
+read -p  "Print path for script: " DIR
+read -p  "Print script name: " NAME
+
+echo "#!/bin/bash" > $DIR/$NAME
+echo "Write code here" >> $DIR/$NAME
+
+nano $DIR/$NAME
+
+chmod u+x $DIR/$NAME
+echo "Script $DIR/$NAME script created"
+
+echo DONE
